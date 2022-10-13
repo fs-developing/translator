@@ -1,3 +1,4 @@
 # Translator
 ## Italian / Austrian
-W0erny ist cool
+A Translator from Italian in Austrian/German
+Woerner
