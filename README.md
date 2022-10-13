@@ -1,2 +1,2 @@
-# translator
-Italian / Austrian
+# Translator
+## Italian / Austrian
