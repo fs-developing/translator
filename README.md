@@ -8,7 +8,7 @@ A Translator from Italian in Austrian/German
 
 fdaskjfdsa
 dsafhadsjölfda
-sfads
+sfads\n
 fadsf
 asdjf
 asdj
